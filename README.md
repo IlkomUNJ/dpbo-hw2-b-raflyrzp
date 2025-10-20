@@ -44,10 +44,12 @@ NIM : 1313624051
 # Collaborators (The person you learned from)
 
 1. Ananda Giwank Abhinaya
+2. Khairul Akmal
 
 # Students (the person you taught to complete the assignments)
 
 1. Ananda Giwank Abhinaya
+2. Khairul Akmal
 
 # AI Assistance
 
